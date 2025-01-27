@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 Bienvenue sur mon portfolio en ligne, réalisé avec Streamlit. Ce projet présente une collection de mes réalisations en data analyst, en machine learning, ainsi que d'autres projets créatifs.
 
