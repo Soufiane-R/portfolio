@@ -88,8 +88,8 @@ elif page == "MON CV":
     cv_image = Image.open("cv_capture.jpg")
     st.image(cv_image)
     cv_url = "https://github.com/Soufiane-R/portfolio/raw/bb16596c64ba4d5f03bdc97c99862674ba1dee21/CV_22-01-2025.pdf"  # Remplace ce lien par celui du CV sur ton GitHub
-    st.markdown("""
-    - **Téléchargez mon CV ** : [Mon CV](https://github.com/Soufiane-R/portfolio/raw/bb16596c64ba4d5f03bdc97c99862674ba1dee21/CV_22-01-2025.pdf)
+    st.markdown("
+    **Téléchargez mon CV ** : [Mon CV](https://github.com/Soufiane-R/portfolio/raw/bb16596c64ba4d5f03bdc97c99862674ba1dee21/CV_22-01-2025.pdf)")
     st.write("")
     
     
